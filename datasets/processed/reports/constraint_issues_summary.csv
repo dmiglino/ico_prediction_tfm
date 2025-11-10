@@ -1,0 +1,4 @@
+dataset,soft_gt_hard,neg_soft,neg_hard,raised_gt_hard,neg_raised
+zenodo_fahlenbrach,2.0,0.0,0.0,0.0,0.0
+icpsr_villanueva,24.0,0.0,0.0,50.0,0.0
+kaggle_yanmaksi,0.0,0.0,0.0,0.0,0.0

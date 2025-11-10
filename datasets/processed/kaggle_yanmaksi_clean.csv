@@ -1,0 +1,280 @@
+coin_ticker,received_money,sold_coins,role_of_token,category,goal,total_tokens,interest,fundraising_goal,start_end_date_coin_sell,ico_token_price,received_money.1,end_date,token_type,available_for_token_sale,min_max_personal_cap,whitelist,accepts,token_issue,cant_participate,end_date_clean,end_date_parsed,ico_successful,name_std,symbol_resolved,symbol_resolved_source,symbol_std
+Acala Network,92500000.0,"$92,500,000 (100%) ",Utility,Governance Token,92500000.0,"1,000,000,000",Ticker: ACA,,30 Aug – 5 Sep, 1 ACA = 1 USD ,92500000.0,Ended: 5 Sep 2021 ,Own blockchain,,,"Yes (since 15 Aug, ","ETH, USDC, DOT",,"China, Crimea region, Cuba, Iran, New Zealand, North Korea, Syria, Ukraine, US non-accredited investors",5 Sep 2021,2021-09-05,0,acalanetwork,ACA,coinpaprika,aca
+Agoric,90250000.0,"$90,250,000 (100%) ",Utility,Blockchain Service,90250000.0,,Ticker: BLD,70000000000.0,29 Dec – 5 Jan, 1 BLD = 0.8 USD ,90250000.0,Ended: 5 Jan 2022 ,Own blockchain,,$100 / $1000,"Yes (until 27 Dec, ",,,"Canada, China, South Korea, USA",5 Jan 2022,2022-01-05,0,agoric,BLD,coingecko,bld
+Alaska Gold Rush,150000.0,,Utility,Gaming,,"1,000,000,000",Not Rated,100000.0,29 Mar – 30 Mar, 1 CARAT = 0.03 USD ,150000.0,Ended: 30 Mar 2023 ,BEP-20,30%,,,USDT,,,30 Mar 2023,2023-03-30,1,alaskagoldrush,CARAT,coingecko,carat
+Ampleforth,4999234.0,"$5,000,000 (100%) ",Utility,Protocol,5000000.0,,"
+High ",,Market & Returns,,4999234.0,Ended: 27 Jun 2019 ,,,,,,,,27 Jun 2019,2019-06-27,0,ampleforth,AMPL,coingecko,ampl
+AngelBlock,4200000.0,"$5,350,000 (79%) ",Utility,Protocol,5350000.0,"400,000,000",Not Rated,,16 Feb – 1 Mar, 1 THOL = 0.1 USD ,4200000.0,Ended: 1 Mar 2023 ,ERC20,"8,25%",,,USDT,,,1 Mar 2023,2023-03-01,0,angelblock,THOL,coingecko,thol
+API3,23000000.0,,Utility,Blockchain Service,,,"
+High ",,Market & Returns,,23000000.0,Ended: 4 Dec 2020 ,,,,,,,,4 Dec 2020,2020-12-04,0,api3,API3,coinpaprika,api3
+Aptos ,350000000.0,,Utility,Blockchain Service,,,,,until 17 Oct,,350000000.0,Ended: 17 Oct 2022 ,ERC20,,,,USDT,,,17 Oct 2022,2022-10-17,0,aptos,APT,coingecko,apt
+ArbiPad,1200000.0,"$1,200,000 (100%) ",Utility,Platform,1200000.0,"10,000,000,000",Not Rated,1200000.0,8 May – 11 May, 1 ARBI = 0.0005 USD ,1200000.0,Ended: 11 May 2023 ,Own blockchain,24%,,,,,,11 May 2023,2023-05-11,1,arbipad,ARBI,coinpaprika,arbi
+Arbitrum,123700000.0,,Utility,Blockchain Service,,"10,000,000,000","
+Very High ",,24 Jun – 23 Mar,,123700000.0,Ended: 23 Mar 2023 ,ERC20,,,,USDT,,,23 Mar 2023,2023-03-23,0,arbitrum,ARB,coinpaprika,arb
+Archway,27000000.0,"$27,000,000 (100%) ",Utility,Blockchain,27000000.0,"1,000,000,000",Not Rated,6000000.0,15 Jun – 23 Jun, 1 ARCH = 0.2 USD ,27000000.0,Ended: 23 Jun 2023 ,Cosmos Network,"19,5%",100$ / 1000$,,"USDT, USDC",,"Canada, China, Congo, Iraq, North Korea, USA",23 Jun 2023,2023-06-23,1,archway,ARCH,coinpaprika,arch
+Ardana,11000000.0,"$11,000,000 (100%) ",Utility,Blockchain Service,11000000.0,,"
+High ",,Market & Returns,,11000000.0,Ended: 5 Nov 2021 ,,,,,,,,5 Nov 2021,2021-11-05,0,ardana,DANA,coinpaprika,dana
+Arken Finance,,,Utility,Blockchain Service,,"10,000,000,000",Not Rated,2250000.0,3 Apr – 6 Apr, 1 ARKEN = 0.004 USD ,,Ended: 6 Apr 2023 ,Own blockchain,,,,USDT,,,6 Apr 2023,2023-04-06,0,arkenfinance,$ARKEN,coingecko,arken
+ARTT Network,225000.0,"$230,000 (100%) ",Utility,Platform,230000.0,"2,000,000,000",Not Rated,100000.0,27 Mar – 30 Mar, 1 ARTT = 0.1 USD ,225000.0,Ended: 30 Mar 2023 ,BEP-20,,,,USDT,,,30 Mar 2023,2023-03-30,1,arttnetwork,ARTT,coinpaprika,artt
+Aurora,13000000.0,"$13,000,000 (100%) ",Utility,Blockchain Service,13000000.0,,"
+Very High ",,Market & Returns,,13000000.0,Ended: 18 Nov 2021 ,,,,,,,,18 Nov 2021,2021-11-18,0,aurora,AURORA,coingecko,aurora
+Aurory,108800000.0,"$108,850,000 (100%) ",Utility,Gaming,108850000.0,,"
+High ",,Market & Returns,,108800000.0,Ended: 24 Oct 2021 ,,,,,,,,24 Oct 2021,2021-10-24,0,aurory,AURY,coingecko,aury
+Axelar,75000000.0,"$75,000,000 (100%) ",Utility,Network,75000000.0,"1,000,000,000",Ticker: AXL,50000000000.0,9 Mar – 16 Mar, 1 AXL = 1 USD ,75000000.0,Ended: 16 Mar 2022 ,ERC20,5%,100$ / 750$,,"ETH, BTC, USDT, USDC",,"Canada, China, Crimea region, Cuba, Iran, Korea, North Korea, Syria, US non-accredited investors",16 Mar 2022,2022-03-16,0,axelar,AXL,coingecko,axl
+Band Protocol,10850000.0,"$10,850,000 (100%) ",Utility,Protocol,10850000.0,,"
+High ",,Market & Returns,,10850000.0,Ended: 17 Sep 2019 ,,,,,,,,17 Sep 2019,2019-09-17,0,bandprotocol,BAND,coinpaprika,band
+Beldex,25000000.0,,Utility,Blockchain Service,,"9,914,701,267",Not Rated,,until 24 Feb,,25000000.0,Ended: 24 Feb 2023 ,ERC20,,,,USDT,,,24 Feb 2023,2023-02-24,0,beldex,BDX,coinpaprika,bdx
+Bella Protocol,,,Utility,DeFi,,,"
+High ",,Market & Returns,,,Ended: 9 Oct 2020 ,,,,,,,,9 Oct 2020,2020-10-09,0,bellaprotocol,BEL,coinpaprika,bel
+BENQI,10000000.0,,Utility,Protocol,,,"
+High ",,Market & Returns,,10000000.0,Ended: 15 Dec 2021 ,,,,,,,,15 Dec 2021,2021-12-15,0,benqi,QI,coinpaprika,qi
+Biconomy,21100000.0,"$21,100,000 (100%) ",Utility,Blockchain Service,21100000.0,,"
+Very High ",,Market & Returns,,21100000.0,Ended: 1 Dec 2021 ,,,,,,,,1 Dec 2021,2021-12-01,0,biconomy,BICO,coinpaprika,bico
+BIDSHOP,250000.0,,Utility,DeFi,,,Not Rated,,Market & Returns,,250000.0,Ended: 30 Jun 2023 ,,,,,,,,30 Jun 2023,2023-06-30,0,bidshop,BIDS,coinpaprika,bids
+BitDAO,632000000.0,,Utility,Blockchain Service,,,"
+High ",,Market & Returns,,632000000.0,Ended: 17 Aug 2021 ,,,,,,,,17 Aug 2021,2021-08-17,0,bitdao,BIT,coinpaprika,bit
+BitMEX,,,Utility,Platform,,"450,000,000",Not Rated,,11 Nov – 30 Jan,,,Ended: 30 Jan 2023 ,ERC20,,,,USDT,,,30 Jan 2023,2023-01-30,0,bitmex,BMEX,coinpaprika,bmex
+Black Stallion,,,Utility,Platform,,"240,000,000",Not Rated,1060000.0,7 Feb – 25 Feb, 1 BS = 0.3 USD ,,Ended: 25 Feb 2023 ,Polygon,"6,75%",,,USDT,,,25 Feb 2023,2023-02-25,0,blackstallion,BS,coinpaprika,bs
+BladeDAO,,,Utility,Gaming,,"10,000,000",Not Rated,,19 May – 24 May, 1 BLADE = 0.0008333 ETH ,,Ended: 24 May 2023 ,Own blockchain,,,,,,,24 May 2023,2023-05-24,0,bladedao,,,
+Blockstack,80500000.0,"$85,500,000 (94%) ",9,Network,85500000.0,,"
+High ",,Market & Returns,,80500000.0,Ended: 8 Sep 2019 ,,,,,,,,8 Sep 2019,2019-09-08,0,blockstack,,,
+Blocto,1500000.0,"$1,500,000 (100%) ",Utility,Blockchain Platform,1500000.0,,"
+High ",,Market & Returns,,1500000.0,Ended: 1 Oct 2021 ,,,,,,,,1 Oct 2021,2021-10-01,0,blocto,BLT,coinpaprika,blt
+BlueSale,1600000.0,"$1,600,000 (100%) ",Utility,DeFi,1600000.0,,Not Rated,,Market & Returns,,1600000.0,Ended: 28 Apr 2023 ,,,,,,,,28 Apr 2023,2023-04-28,0,bluesale,,,
+Braintrust,12450000.0,"$12,450,000 (100%) ",Utility,Network,12450000.0,,"
+High ",,Market & Returns,,12450000.0,Ended: 17 Sep 2021 ,,,,,,,,17 Sep 2021,2021-09-17,0,braintrust,BTRST,coinpaprika,btrst
+Bware Labs,7200000.0,,Utility,Blockchain Platform,,"100,000,000",Not Rated,1780000000.0,24 May – 30 May, 1 INFRA = 0.5 USD ,7200000.0,Ended: 30 May 2023 ,ERC20,"0,25%",,,,,,30 May 2023,2023-05-30,0,bwarelabs,INFRA,coinpaprika,infra
+Calvaria,1140000.0,,Utility,Gaming,,"1,000,000,000",Not Rated,100000.0,1 Nov – 1 Feb, 1 RIA = 0.016 USD ,1140000.0,Ended: 1 Feb 2023 ,ERC20,30%,,,USDT,,,1 Feb 2023,2023-02-01,1,calvaria,RIA,coinpaprika,ria
+Carbon,1200000.0,"$1,200,000 (100%) ",Utility,Blockchain Service,1200000.0,"1,000,000,000",Not Rated,750000.0,30 Jan – 15 Feb, 1 CSIX = 0.01 USD ,1200000.0,Ended: 15 Feb 2023 ,BEP-20,14%,,,USDT,,,15 Feb 2023,2023-02-15,1,carbon,CO2,coinpaprika,co2
+CarrieVerse,,,Utility,Platform,,"1,000,000,000",Not Rated,120000.0,30 Jan – 31 Jan, 1 CVTX = 0.07 USD ,,Ended: 31 Jan 2023 ,ERC20,20%,,,USDT,,,31 Jan 2023,2023-01-31,0,carrieverse,CVTX,coinpaprika,cvtx
+Cartesi,1500000.0,"$1,500,000 (100%) ",Utility,Dapp,1500000.0,,"
+High ",,Market & Returns,,1500000.0,Ended: 21 Apr 2020 ,,,,,,,,21 Apr 2020,2020-04-21,0,cartesi,CTSI,coingecko,ctsi
+Casper,62900000.0,"$62,900,000 (100%) ",Utility,Blockchain,62900000.0,,"
+High ",,Market & Returns,,62900000.0,Ended: 7 Apr 2021 ,,,,,,,,7 Apr 2021,2021-04-07,0,casper,CASPER,coinpaprika,casper
+Celo,6500000.0,"$1,248,000,000 (1%) ",Utility,Payments,1248000000.0,,"
+Medium ",,Market & Returns,,6500000.0,Ended: 11 May 2020 ,,,,,,,,11 May 2020,2020-05-11,0,celo,CELO,coingecko,celo
+Centrifuge,28100000.0,"$28,100,000 (100%) ",Utility,DeFi,28100000.0,"425,000,000",Ticker: CFG,6375000000.0,26 May – 27 May, 1 CFG = 0.55 USD ,28100000.0,Ended: 27 May 2021 ,ERC20,"9,5%",$100 / $500,"Yes (6 May – 22 May, ","ETH, BTC, USDT, USDC",,,27 May 2021,2021-05-27,0,centrifuge,CFG,coingecko,cfg
+Cere Network,37700000.0,"$37,700,000 (100%) ",Utility,Data Service,37700000.0,,"
+High ",,Market & Returns,,37700000.0,Ended: 8 Nov 2021 ,,,,,,,,8 Nov 2021,2021-11-08,0,cerenetwork,CERE,coingecko,cere
+CertiK,,,Utility,Verification,,"100,000,000",Ticker: CTK,,23 Oct – 8 Nov,,,Ended: 8 Nov 2020 ,ERC20,,,,,,"China, USA",8 Nov 2020,2020-11-08,0,certik,CTK,coinpaprika,ctk
+ChainGPT,905000.0,,Utility,Artificial Intelligence,,"1,000,000,000",Not Rated,720000.0,5 Apr – 8 Apr, 1 CGPT = 0.008 USD ,905000.0,Ended: 8 Apr 2023 ,BEP-20,19%,,,USDT,,,8 Apr 2023,2023-04-08,1,chaingpt,CGPT,coingecko,cgpt
+Clearpool,3100000.0,"$3,100,000 (100%) ",Utility,Blockchain Service,3100000.0,,"
+High ",,Market & Returns,,3100000.0,Ended: 27 Oct 2021 ,,,,,,,,27 Oct 2021,2021-10-27,0,clearpool,CPOOL,coinpaprika,cpool
+CLV,57395500.0,"$57,400,000 (100%) ",Utility,Blockchain Service,57400000.0,,"
+High ",,Market & Returns,,57395500.0,Ended: 4 May 2021 ,,,,,,,,4 May 2021,2021-05-04,0,clv,CLV,coinpaprika,clv
+Cogito Protocol,,,Utility,DeFi,,,Not Rated,,Market & Returns,,,Ended: 3 Jun 2023 ,,,,,,,,3 Jun 2023,2023-06-03,0,cogitoprotocol,,,
+Coinzix,2240000.0,"$2,240,000 (100%) ",Utility,Exchange,2240000.0,,Not Rated,,Market & Returns,,2240000.0,Ended: 2 May 2023 ,,,,,,,,2 May 2023,2023-05-02,0,coinzix,ZIX,coinpaprika,zix
+Colony,9900000.0,,Governance,Protocol,,,"
+High ",,Market & Returns,,9900000.0,Ended: 28 Jan 2022 ,,,,,,,,28 Jan 2022,2022-01-28,0,colony,CLY,coinpaprika,cly
+Coniun,538000.0,"$700,000 (77%) ",Utility,Blockchain Service,700000.0,"100,000,000",Not Rated,315000.0,30 Mar – 31 Mar, 1 CONI = 0.045 USD ,538000.0,Ended: 31 Mar 2023 ,ERC20,19%,,,USDT,,,31 Mar 2023,2023-03-31,1,coniun,,,
+Convergence,2300000.0,"$2,300,000 (100%) ",Utility,Protocol,2300000.0,,"
+High ",,Market & Returns,,2300000.0,Ended: 25 Mar 2021 ,,,,,,,,25 Mar 2021,2021-03-25,0,convergence,CONV,coinpaprika,conv
+CowSwap,23000000.0,,Utility,Exchange,,"1,000,000,000",Ticker: COW,,until 30 Apr,,23000000.0,Ended: 30 Apr 2022 ,ERC20,,,,USDT,,,30 Apr 2022,2022-04-30,0,cowswap,,,
+Crown,,,Utility,Blockchain,,,Not Rated,,Market & Returns,,,Ended: 18 Apr 2023 ,,,,,,,,18 Apr 2023,2023-04-18,0,crown,CRW,coinpaprika,crw
+CryptoGPT,,,Utility,Blockchain,,"3,000,000,000",Not Rated,150000.0,23 Feb – 7 Mar, 1 GPT = 0.005 USD ,,Ended: 7 Mar 2023 ,Own blockchain,20%,,,USDT,,,7 Mar 2023,2023-03-07,0,cryptogpt,CRGPT,coinpaprika,crgpt
+Cyber Arena,2100000.0,"$2,100,000 (100%) ",Utility,Gaming,2100000.0,,Not Rated,,Market & Returns,,2100000.0,Ended: 8 Jun 2023 ,,,,,,,,8 Jun 2023,2023-06-08,0,cyberarena,CAT,coinpaprika,cat
+CyberConnect,30400000.0,,Utility,Protocol,,"100,000,000","
+Very High ",3000000000.0,18 May – 24 May, 1 CYBER = 1.80 USD ,30400000.0,Ended: 24 May 2023 ,ERC20,"28,12%",,,USDT,,"Afghanistan, Canada, Central African Republic, China, Congo, Cote D’Ivoire, Cuba, Iran, Korea, Lebanon, Liberia, Myanmar, Somalia, South Korea, South Sudan, Sudan, Syria, USA, Venezuela, Yemen, Zimbabwe",24 May 2023,2023-05-24,0,cyberconnect,CYBER,coinpaprika,cyber
+dAngel Fund,,,Utility,Platform,,"250,000,000",Not Rated,,10 Mar – 17 Mar,,,Ended: 17 Mar 2023 ,NEAR Blockchain,20%,,,,,,17 Mar 2023,2023-03-17,0,dangelfund,,,
+Deepwaters,6600000.0,"$6,600,000 (100%) ",Utility,Exchange,6600000.0,"350,000,000",Not Rated,800000.0,15 Feb – 18 Feb, 1 WTR = 0.12 USD ,6600000.0,Ended: 18 Feb 2023 ,ERC20,"13,1%",,,USDT,,,18 Feb 2023,2023-02-18,1,deepwaters,WTR,coinpaprika,wtr
+Degen Zoo,2400000.0,"$2,400,000 (100%) ",Utility,Gaming,2400000.0,"1,000,000,000",Not Rated,2400000.0,24 Feb – 15 Mar, 1 DZOO = 0.006 USD ,2400000.0,Ended: 15 Mar 2023 ,BEP-20,40%,,,USDT,,,15 Mar 2023,2023-03-15,1,degenzoo,DZOO,coinpaprika,dzoo
+Delysium,14000000.0,,Utility,Gaming,,"3,000,000,000",Not Rated,20000.0,10 Apr – 11 Apr, 1 AGI = 0.033 USD ,14000000.0,Ended: 11 Apr 2023 ,ERC20,20%,,,USDT,,,11 Apr 2023,2023-04-11,1,delysium,AGI,coinpaprika,agi
+Divergence,6600000.0,"$6,600,000 (100%) ",Utility,Platform,6600000.0,,"
+High ",,Market & Returns,,6600000.0,Ended: 28 Sep 2021 ,,,,,,,,28 Sep 2021,2021-09-28,0,divergence,DIVER,coinpaprika,diver
+Dsync,1700000.0,"$1,700,000 (100%) ",Utility,Protocol,1700000.0,"470,000,000",Not Rated,900000.0,25 Feb – 7 Mar, 1 DSYNC = 0.025 USD ,1700000.0,Ended: 7 Mar 2023 ,ERC20,"14,9%",,,USDT,,,7 Mar 2023,2023-03-07,1,dsync,DSYNC,coinpaprika,dsync
+ECO ,35000000.0,,Utility,Blockchain Service,,,"
+Very High ",,Market & Returns,,35000000.0,Ended: 8 Nov 2022 ,,,,,,,,8 Nov 2022,2022-11-08,0,eco,OMI,coinpaprika,omi
+Efinity,38900000.0,"$38,900,000 (100%) ",Utility,Blockchain Service,38900000.0,,"
+High ",,Market & Returns,,38900000.0,Ended: 25 Jun 2021 ,,,,,,,,25 Jun 2021,2021-06-25,0,efinity,EFI,coinpaprika,efi
+EGO (Paysenger),4160000.0,"$4,160,000 (100%) ",Utility,Social Network,4160000.0,"500,000,000",Not Rated,859000.0,1 Jun – 5 Jul, 1 EGO = 0.06 USD ,4160000.0,Ended: 5 Jul 2023 ,BEP-20,26.6%,100$ / 2500$,"Yes (until 24 May, ","ETH, USDT, USDC, DOT",,"Afghanistan, Burundi, Central African Republic, Congo, Cuba, Puerto Rico, Somalia, Sudan, USA, Venezuela, Zimbabwe",5 Jul 2023,2023-07-05,1,egopaysenger,,,
+Eldarune,1750500.0,"$1,750,000 (100%) ",Utility,Gaming,1750000.0,,Not Rated,,Market & Returns,,1750500.0,Ended: 30 May 2023 ,,,,,,,,30 May 2023,2023-05-30,0,eldarune,ELDA,coinpaprika,elda
+Elixxir,17700000.0,"$23,000,000 (77%) ",Utility,Blockchain,23000000.0,"1,000,000,000",Ticker: XX,15000000.0,22 Jan – 20 Mar, 1 XX = 0.36 USD ,17700000.0,Ended: 20 Mar 2020 ,ERC-1404,4.3%,1000$ / 500000$,,"ETH, BTC, USD, USDC, GUSD",,USA,20 Mar 2020,2020-03-20,1,elixxir,ICO,coinpaprika,ico
+Elrond Network,5150000.0,"$5,150,000 (100%) ",17,Blockchain,5150000.0,,"
+Very High ",,Market & Returns,,5150000.0,Ended: 2 Jul 2019 ,,,,,,,,2 Jul 2019,2019-07-02,0,elrondnetwork,ICO,coinpaprika,ico
+Ethlas,8700000.0,,Utility,Gaming,,,Not Rated,,Market & Returns,,8700000.0,Ended: 28 Jun 2023 ,,,,,,,,28 Jun 2023,2023-06-28,0,ethlas,ELS,coingecko,els
+Exorde,2500000.0,"$6,180,000 (40%) ",Utility,Blockchain Service,6180000.0,"200,000,000",Not Rated,4175000.0,14 Feb – 10 Mar, 1 EXD = 0.35 USD ,2500000.0,Ended: 10 Mar 2023 ,ERC20,"14,4%",,,USDT,,,10 Mar 2023,2023-03-10,0,exorde,EXD,coinpaprika,exd
+Fei Protocol,1681161950.0,,Utility,Stablecoin,,,"
+High ",,Market & Returns,,1681161950.0,Ended: 3 Apr 2021 ,,,,,,,,3 Apr 2021,2021-04-03,0,feiprotocol,FEI,coinpaprika,fei
+Finblox,3900000.0,,Utility,Platform,,,Not Rated,,Market & Returns,,3900000.0,Ended: 13 May 2023 ,,,,,,,,13 May 2023,2023-05-13,0,finblox,FBX,coingecko,fbx
+FitBurn,4600000.0,,Utility,Platform,,,Not Rated,,Market & Returns,,4600000.0,Ended: 14 May 2023 ,,,,,,,,14 May 2023,2023-05-14,0,fitburn,CAL,coinpaprika,cal
+Flamingo Finance,,,Utility,DeFi,,"250,000,000",Ticker: FLM,,23 Sep – 29 Sep,,,Ended: 29 Sep 2020 ,NEP-5,,,,NEO,,,29 Sep 2020,2020-09-29,0,flamingofinance,FLM,coinpaprika,flm
+Flow ,19500000.0,"$19,500,000 (100%) ",Utility,Blockchain,19500000.0,,"
+Very High ",,Market & Returns,,19500000.0,Ended: 6 Oct 2020 ,,,,,,,,6 Oct 2020,2020-10-06,0,flow,FLOW,coinpaprika,flow
+Frontier,600000.0,"$600,000 (100%) ",Utility,DeFi,600000.0,,Ticker: FRONT,150000.0,15 Sep – 15 Sep, 1 FRONT = 0.08 USD ,600000.0,Ended: 15 Sep 2020 ,ERC20,,,,USDT,,,15 Sep 2020,2020-09-15,1,frontier,F,coinpaprika,f
+G4AL,1600000.0,,Utility,Platform,,"10,000,000,000",Not Rated,125000000000.0,9 Mar – 11 Mar, 1 GGT = 0.004 USD ,1600000.0,Ended: 11 Mar 2023 ,ERC20,"16,25%",,,USDT,,,11 Mar 2023,2023-03-11,0,g4al,,,
+Gearbox Protocol,11350000.0,,Governance,Protocol,,"10,000,000,000","
+Very High ",500000000000.0,16 Dec – 17 Dec, 1 GEAR = 0.0144 USD ,11350000.0,Ended: 17 Dec 2021 ,ERC20,5%,100000 GEAR / 100000 GEAR,,,,,17 Dec 2021,2021-12-17,0,gearboxprotocol,,,
+Gelato,16000000.0,"$16,000,000 (100%) ",Utility,Network,16000000.0,,"
+High ",,Market & Returns,,16000000.0,Ended: 16 Sep 2021 ,,,,,,,,16 Sep 2021,2021-09-16,0,gelato,GEL,coingecko,gel
+Glory Finance,3500000.0,,Utility,DeFi,,"150,000,000",Not Rated,175000.0,4 Apr – 8 Apr, 1 GLR = 0.8 USD ,3500000.0,Ended: 8 Apr 2023 ,BEP-20,10%,,,USDT,,,8 Apr 2023,2023-04-08,1,gloryfinance,,,
+Gods Unchained,25320000.0,"$25,320,000 (100%) ",Utility,Gaming,25320000.0,"200,000,000",Ticker: GODS,35000000000.0,13 Oct – 20 Oct, 1 GODS = 0.336 USD ,25320000.0,Ended: 20 Oct 2021 ,ERC20,,$100 / $500 ,,"ETH, BTC, USDT, USDC",,"Australia, Canada, China, US non-accredited investors",20 Oct 2021,2021-10-20,0,godsunchained,GODS,coingecko,gods
+Goldfinch Finance,36000000.0,,Utility,DeFi,,,"
+Very High ",,1 Oct – 11 Jan,,36000000.0,Ended: 11 Jan 2022 ,ERC20,,,,USDT,,,11 Jan 2022,2022-01-11,0,goldfinchfinance,,,
+Goracle,3725000.0,"$3,730,000 (100%) ",Utility,Blockchain Service,3730000.0,,Not Rated,,Market & Returns,,3725000.0,Ended: 5 Jul 2023 ,,,,,,,,5 Jul 2023,2023-07-05,0,goracle,,,
+GoSleep,2000000.0,,Utility,Gaming,,,Not Rated,,Market & Returns,,2000000.0,Ended: 19 Apr 2023 ,,,,,,,,19 Apr 2023,2023-04-19,0,gosleep,ZZZ,coinpaprika,zzz
+GPT Guru,1448000.0,"$1,450,000 (100%) ",Utility,Artificial Intelligence,1450000.0,,Not Rated,,Market & Returns,,1448000.0,Ended: 7 Jun 2023 ,,,,,,,,7 Jun 2023,2023-06-07,0,gptguru,GPTG,coinpaprika,gptg
+GuildFi,6000000.0,,Utility,Platform,,,"
+High ",,Market & Returns,,6000000.0,Ended: 4 Dec 2021 ,,,,,,,,4 Dec 2021,2021-12-04,0,guildfi,GF,coinpaprika,gf
+Guild of Guardians,5500000.0,"$5,500,000 (100%) ",Utility,Gaming,5500000.0,,"
+Very High ",,Market & Returns,,5500000.0,Ended: 17 Nov 2021 ,,,,,,,,17 Nov 2021,2021-11-17,0,guildofguardians,GOG,coinpaprika,gog
+HALO,,,Utility,Blockchain Service,,"500,000,000",Not Rated,50000.0,2 Mar – 3 Mar, 1 HALO = 0.02 USD ,,Ended: 3 Mar 2023 ,BEP-20,,,,,,,3 Mar 2023,2023-03-03,0,halo,HALO,coinpaprika,halo
+handle.fi,4410000.0,"$4,410,000 (100%) ",Utility,Protocol,4410000.0,,"
+High ",,Market & Returns,,4410000.0,Ended: 23 Sep 2021 ,,,,,,,,23 Sep 2021,2021-09-23,0,handlefi,FOREX,coingecko,forex
+Hepton,2620750.0,"$2,620,000 (100%) ",Utility,Blockchain Service,2620000.0,,Not Rated,,Market & Returns,,2620750.0,Ended: 26 Apr 2023 ,,,,,,,,26 Apr 2023,2023-04-26,0,hepton,HTE,coinpaprika,hte
+Honeyland,230000.0,,Utility,Gaming,,"1,000,000,000",Not Rated,220500.0,14 Mar – 18 Mar, 1 HXD = 0.035 USD ,230000.0,Ended: 18 Mar 2023 ,Solana,23%,,,USDT,,,18 Mar 2023,2023-03-18,1,honeyland,HXD,coinpaprika,hxd
+HoneyWood,470000.0,,Utility,Gaming,,"18,993,665",Not Rated,20000.0,13 Feb – 14 Feb, 1 CONE = 0.17 USD ,470000.0,Ended: 14 Feb 2023 ,Own blockchain,"16,83%",,,USDT,,,14 Feb 2023,2023-02-14,1,honeywood,CONE,coinpaprika,cone
+HOPR,,,Switzerland,Protocol,,,"
+Very High ",,Market & Returns,,,Ended: 27 Feb 2021 ,,,,,,,,27 Feb 2021,2021-02-27,0,hopr,HOPR,coinpaprika,hopr
+HydraDX,22857737.0,,Utility,Protocol,,,Ticker: HDX,,8 Feb – 11 Feb, 1 HDX = 0.055 USD ,22857737.0,Ended: 11 Feb 2021 ,Polkadot,5%,,,,,,11 Feb 2021,2021-02-11,0,hydradx,,,
+Hypercycle,7516000.0,,Utility,Platform,,,Not Rated,,Market & Returns,,7516000.0,Ended: 10 May 2023 ,,,,,,,,10 May 2023,2023-05-10,0,hypercycle,HYPC,coinpaprika,hypc
+HyperGPT,1665000.0,"$1,670,000 (100%) ",Utility,Marketplace,1670000.0,,Not Rated,,Market & Returns,,1665000.0,Ended: 11 Jun 2023 ,,,,,,,,11 Jun 2023,2023-06-11,0,hypergpt,HGPT,coinpaprika,hgpt
+IguVerse,1970000.0,,Governance,Gaming,,"1,000,000,000",Not Rated,250000.0,30 Jan – 14 Feb, 1 IGU = 0.08 USD ,1970000.0,Ended: 14 Feb 2023 ,BEP-20,"6,5%",,"Yes (period isn't set, ",,,,14 Feb 2023,2023-02-14,1,iguverse,IGU,coinpaprika,igu
+Ikonic,3250000.0,,Utility,Platform,,"1,500,000,000",Not Rated,60000000000.0,18 Oct – 11 Feb, 1 IKONIC = 0.01 USD ,3250000.0,Ended: 11 Feb 2023 ,ERC20,32%,,,USDT,,,11 Feb 2023,2023-02-11,0,ikonic,,,
+Immutable X,13000000.0,"$13,000,000 (100%) ",Utility,Protocol,13000000.0,,"
+Very High ",,Market & Returns,,13000000.0,Ended: 15 Sep 2021 ,,,,,,,,15 Sep 2021,2021-09-15,0,immutablex,IMX,coinpaprika,imx
+Injective Protocol,43600000.0,,Utility,DEX,,,"
+High ",,Market & Returns,,43600000.0,Ended: 20 Oct 2020 ,,,,,,,,20 Oct 2020,2020-10-20,0,injectiveprotocol,INJ,coinpaprika,inj
+InteractWith,1620000.0,"$1,620,000 (100%) ",Utility,Blockchain Service,1620000.0,"100,000,000",Not Rated,825000.0,15 Mar – 19 Mar, 1 INTER = 0.15 USD ,1620000.0,Ended: 19 Mar 2023 ,ERC20,13%,,,USDT,,,19 Mar 2023,2023-03-19,1,interactwith,INTER,coinpaprika,inter
+Iron Fish,32900000.0,,Utility,Blockchain Service,,,Ticker: IRON,,until 1 Mar,,32900000.0,Ended: 1 Mar 2023 ,ERC20,,,,USDT,,,1 Mar 2023,2023-03-01,0,ironfish,IRON,coingecko,iron
+JUST,4066920.0,"$4,070,000 (100%) ",Utility,Stablecoin,4070000.0,,"
+High ",,Market & Returns,,4066920.0,Ended: 5 May 2020 ,,,,,,,,5 May 2020,2020-05-05,0,just,JST,coingecko,jst
+KAIF,500000.0,,Utility,Platform,,"90,000,000",Not Rated,500000.0,June (no exact dates), 1 KAF = 0.15 USD ,500000.0,Ended: 8 Jun 2023 ,BEP-20,,,,BUSD,,,8 Jun 2023,2023-06-08,1,kaif,KAF,coinpaprika,kaf
+Karate Combat,18000000.0,,Utility,Gaming,,,Not Rated,,Market & Returns,,18000000.0,Ended: 8 May 2023 ,,,,,,,,8 May 2023,2023-05-08,0,karatecombat,KARATE,coingecko,karate
+Kine,7000000.0,,Utility,Protocol,,"100,000,000",Ticker: KINE,5000000000.0,11 Mar – 13 Mar, 1 KINE = 4 USD ,7000000.0,Ended: 13 Mar 2021 ,ERC20,,,,USDC,,,13 Mar 2021,2021-03-13,0,kine,KAU,coingecko,kau
+Konomi Network,200000.0,"$200,000 (100%) ",Utility,Platform,200000.0,,"
+High ",,Market & Returns,,200000.0,Ended: 16 Mar 2021 ,,,,,,,,16 Mar 2021,2021-03-16,0,konominetwork,KONO,coingecko,kono
+KryptAI,100000.0,,Utility,Artificial Intelligence,,"1,000,000,000",Not Rated,221700000000.0,31 Mar – 9 Apr, 1 KAI = 0.000857 USD ,100000.0,Ended: 9 Apr 2023 ,Own blockchain,35%,,,USDT,,,9 Apr 2023,2023-04-09,0,kryptai,,,
+LimeWire,10400000.0,,Utility,Marketplace,,,Not Rated,,Market & Returns,,10400000.0,Ended: 15 May 2023 ,,,,,,,,15 May 2023,2023-05-15,0,limewire,LMWR,coingecko,lmwr
+Linear Finance,307500.0,"$310,000 (100%) ",Utility,Protocol,310000.0,,"
+High ",,Market & Returns,,307500.0,Ended: 17 Sep 2020 ,,,,,,,,17 Sep 2020,2020-09-17,0,linearfinance,LINA,coinpaprika,lina
+Lithium,8100000.0,"$8,100,000 (100%) ",Utility,Protocol,8100000.0,"10,000,000,000",Ticker: LITH,33333333000.0,5 Aug – 5 Aug, 1 LITH = 0.006 USD ,8100000.0,Ended: 5 Aug 2021 ,ERC20,"19,8%",,,,,"Afghanistan, Albania, Burundi, China, Comoros, Cuba, Ethiopia, Hong Kong, Iran, Iraq, North Korea, Pakistan, Sri Lanka, Syria, Trinidad, Tobago, Tunisia, USA, Venezuela, Yemen",5 Aug 2021,2021-08-05,0,lithium,LITH,coingecko,lith
+LitLab Games,2065000.0,"$2,070,000 (100%) ",Utility,Gaming,2070000.0,,Not Rated,,Market & Returns,,2065000.0,Ended: 8 May 2023 ,,,,,,,,8 May 2023,2023-05-08,0,litlabgames,LITT,coingecko,litt
+Lumerin,15000000.0,"$60,000,000 (25%) ",Utility,Protocol,60000000.0,,"
+High ",,Market & Returns,,15000000.0,Ended: 8 Dec 2021 ,,,,,,,,8 Dec 2021,2021-12-08,0,lumerin,LMR,coingecko,lmr
+Manta Network Crowdloan,6600000.0,,Utility,Protocol,,"1,000,000,000",Not Rated,156000005000.0,4 Nov – 1 Mar,,6600000.0,Ended: 1 Mar 2023 ,Polkadot,15.6%,,,,,"USA, US non-accredited investors",1 Mar 2023,2023-03-01,0,mantanetworkcrowdloan,,,
+Marlin,3000000.0,,Utility,Protocol,,,"
+Watch List ",,Market & Returns,,3000000.0,Ended: 1 Nov 2020 ,,,,,,,,1 Nov 2020,2020-11-01,0,marlin,POND,coingecko,pond
+Merit Circle,110000000.0,,Utility,Blockchain Service,,,"
+High ",,Market & Returns,,110000000.0,Ended: 31 Jan 2022 ,,,,,,,,31 Jan 2022,2022-01-31,0,meritcircle,MC,coinpaprika,mc
+Metaverse Kombat,2200000.0,,Utility,Gaming,,"300,000,000",Not Rated,1200000.0,11 May – 4 Jun, 1 MVK = 0.08 USD ,2200000.0,Ended: 4 Jun 2023 ,BEP-20,11%,,,USDT,,,4 Jun 2023,2023-06-04,1,metaversekombat,MVK,coingecko,mvk
+Mina Protocol ,48150000.0,"$48,150,000 (100%) ",Utility,Protocol,48150000.0,,"
+Very High ",,Market & Returns,,48150000.0,Ended: 13 Apr 2021 ,,,,,,,,13 Apr 2021,2021-04-13,0,minaprotocol,MINA,coingecko,mina
+Mines Of Dalarnia,2700000.0,,Utility,Gaming,,,"
+Very High ",,Market & Returns,,2700000.0,Ended: 27 Nov 2021 ,,,,,,,,27 Nov 2021,2021-11-27,0,minesofdalarnia,DAR,coinpaprika,dar
+Minima,2500000.0,"$4,500,000 (56%) ",Utility,Blockchain,4500000.0,"60,000,000",Not Rated,4500000.0,14 Feb – 21 Mar, 1 WMINIMA = 0.3 USD ,2500000.0,Ended: 21 Mar 2023 ,ERC20,6%,,,USDT,,,21 Mar 2023,2023-03-21,0,minima,MINIMA,coinpaprika,minima
+Mintlayer,5200000.0,,Utility,DeFi,,"400,000,000",Not Rated,100000.0,22 Mar – 23 Mar, 1 ML = 0.25 USD ,5200000.0,Ended: 23 Mar 2023 ,ERC20,"33,77%",,,USDT,,,23 Mar 2023,2023-03-23,1,mintlayer,ML,coinpaprika,ml
+Mizar,3400000.0,,Utility,Platform,,"10,000,000,000",Not Rated,100000000000.0,6 Mar – 8 Mar, 1 MZR = 0.002 USD ,3400000.0,Ended: 8 Mar 2023 ,BEP-20,,,,,,,8 Mar 2023,2023-03-08,0,mizar,MZR,coinpaprika,mzr
+MonoX,5400000.0,"$5,400,000 (100%) ",Governance,DEX,5400000.0,,"
+High ",,Market & Returns,,5400000.0,Ended: 25 Nov 2021 ,,,,,,,,25 Nov 2021,2021-11-25,0,monox,MONO,coinpaprika,mono
+Moovy,3610000.0,"$3,610,000 (100%) ",Utility,Gaming,3610000.0,"100,000,000",Not Rated,50000.0,30 Mar – 11 Apr, 1 MOIL = 0.37 USD ,3610000.0,Ended: 11 Apr 2023 ,BEP-20,27%,,,USDT,,,11 Apr 2023,2023-04-11,1,moovy,MOOVY,coinpaprika,moovy
+Naviern,,,Utility,Blockchain Service,,,Not Rated,,Market & Returns,,,Ended: 30 Apr 2023 ,,,,,,,,30 Apr 2023,2023-04-30,0,naviern,NVRN,coinpaprika,nvrn
+Near Protocol ,33625000.0,"$33,630,000 (100%) ",Utility,Blockchain,33630000.0,,"
+High ",,Market & Returns,,33625000.0,Ended: 25 Aug 2020 ,,,,,,,,25 Aug 2020,2020-08-25,0,nearprotocol,NEAR,coingecko,near
+NeoCortexAI,860000.0,"$860,000 (100%) ",Utility,Platform,860000.0,"1,000,000,000",Not Rated,275000.0,13 Mar – 20 Mar, 1 CORAI = 0.005 USD ,860000.0,Ended: 20 Mar 2023 ,BEP-20,"20,5%",,,USDT,,,20 Mar 2023,2023-03-20,1,neocortexai,CORAI,coinpaprika,corai
+Neon,45000000.0,"$45,000,000 (100%) ",Governance,Blockchain Service,45000000.0,"1,000,000,000","
+Very High ",5000000.0,8 Jun – 15 Jun, 1 NEON = 0.1 USD ,45000000.0,Ended: 15 Jun 2023 ,ERC20,5%,$100 / $500,,"USDT, USDC",,,15 Jun 2023,2023-06-15,1,neon,NEON,coingecko,neon
+NFT3,,,Utility,Blockchain Service,,"1,000,000,000",Not Rated,60000000000.0,7 Oct – 7 Feb, 1 ISME = 0.054 USD ,,Ended: 7 Feb 2023 ,ERC20,"34,5%",,,USDT,,,7 Feb 2023,2023-02-07,0,nft3,ISME,coinpaprika,isme
+NuCypher ,125639115.0,,7,Blockchain Service,,,"
+Very High ",,Market & Returns,,125639115.0,Ended: 30 Sep 2020 ,,,,,,,,30 Sep 2020,2020-09-30,0,nucypher,NU,coinpaprika,nu
+NuriTopia,,,Utility,Platform,,"5,000,000,000",Not Rated,120000.0,23 Mar – 24 Mar, 1 NBLU = 0.015 USD ,,Ended: 24 Mar 2023 ,BEP-20,8%,,,USDT,,,24 Mar 2023,2023-03-24,0,nuritopia,NBLU,coingecko,nblu
+Nym,53250000.0,"$53,250,000 (100%) ",Utility,Protocol,53250000.0,,"
+Very High ",,Market & Returns,,53250000.0,Ended: 16 Feb 2022 ,,,,,,,,16 Feb 2022,2022-02-16,0,nym,NYM,coingecko,nym
+Oasis Labs,45000000.0,,Utility,Blockchain,,,"
+High ",,Market & Returns,,45000000.0,Ended: 18 Nov 2020 ,,,,,,,,18 Nov 2020,2020-11-18,0,oasislabs,ICO,coinpaprika,ico
+Oiler Network,,,Utility,Protocol,,"100,000,000",Ticker: OIL,1775000000.0,6 May – 8 May, 1 OIL = 2.93 USD ,,Ended: 8 May 2021 ,ERC20,,,,,,,8 May 2021,2021-05-08,0,oilernetwork,,,
+OIN Finance,192000.0,"$190,000 (100%) ",Utility,DeFi,190000.0,"100,000,000",Ticker: OIN,192000.0,31 Aug – 31 Aug, 1 OIN = 0.08 USD ,192000.0,Ended: 31 Aug 2020 ,Ontology,,600 USD / 600 USD,,USDT,,,31 Aug 2020,2020-08-31,1,oinfinance,OIN,coinpaprika,oin
+Open Campus,2500000.0,,Utility,Education,,,Not Rated,,Market & Returns,,2500000.0,Ended: 28 Apr 2023 ,,,,,,,,28 Apr 2023,2023-04-28,0,opencampus,EDU,coinpaprika,edu
+OpenSwap,1850000.0,"$1,850,000 (100%) ",Utility,DeFi,1850000.0,,"
+High ",,Market & Returns,,1850000.0,Ended: 31 Aug 2021 ,,,,,,,,31 Aug 2021,2021-08-31,0,openswap,OPENX,coinpaprika,openx
+OpiPets,6900000.0,"$6,900,000 (100%) ",Utility,Gaming,6900000.0,"500,000,000",Not Rated,2400000.0,4 Mar – 18 Mar, 1 OPIP = 0.12 USD ,6900000.0,Ended: 18 Mar 2023 ,BEP-20,14%,,,USDT,,,18 Mar 2023,2023-03-18,1,opipets,OPIP,coinpaprika,opip
+Orbofi,2600000.0,"$2,600,000 (100%) ",Utility,Platform,2600000.0,,Not Rated,,Market & Returns,,2600000.0,Ended: 28 May 2023 ,,,,,,,,28 May 2023,2023-05-28,0,orbofi,OBI,coinpaprika,obi
+OtterHome,,,Utility,DeFi,,,Not Rated,,Market & Returns,,,Ended: 13 Jun 2023 ,,,,,,,,13 Jun 2023,2023-06-13,0,otterhome,HOME,coinpaprika,home
+OVO NFT Platform,,,Utility,Platform,,"240,000,000",Not Rated,150000.0,21 Mar – 22 Mar, 1 OVO = 0.16 USD ,,Ended: 22 Mar 2023 ,ERC20,"18,75%",,,USDT,,,22 Mar 2023,2023-03-22,0,ovonftplatform,OVO,coinpaprika,ovo
+Ozone Metaverse,1430000.0,"$1,430,000 (100%) ",Utility,Platform,1430000.0,"2,000,000,000",Not Rated,280000.0,16 Jun – 6 Jul, 1 OZONE = 0.007 USD ,1430000.0,Ended: 6 Jul 2023 ,Flow,"21,25%",,,,,,6 Jul 2023,2023-07-06,1,ozonemetaverse,OZONE,coinpaprika,ozone
+PARMA Fan Token,2500000.0,"$2,500,000 (100%) ",Utility,Currency,2500000.0,"20,000,000",Not Rated,1500000000.0,20 Feb – 1 Mar, 1 PARMA = 1 USD ,2500000.0,Ended: 1 Mar 2023 ,BEP-20,"14,5%",,,USDT,,,1 Mar 2023,2023-03-01,0,parmafantoken,,,
+Perlin,6700000.0,"$6,700,000 (100%) ",Utility,Protocol,6700000.0,,"
+High ",,Market & Returns,,6700000.0,Ended: 25 Aug 2019 ,,,,,,,,25 Aug 2019,2019-08-25,0,perlin,ICO,coinpaprika,ico
+Perpetual Protocol ,7150000.0,"$9,750,000 (73%) ",Utility,Protocol,9750000.0,,"
+High ",,Market & Returns,,7150000.0,Ended: 12 Sep 2020 ,,,,,,,,12 Sep 2020,2020-09-12,0,perpetualprotocol,PERP,coinpaprika,perp
+Pika Protocol,8700000.0,,Utility,Exchange,,,Not Rated,,Market & Returns,,8700000.0,Ended: 27 May 2023 ,,,,,,,,27 May 2023,2023-05-27,0,pikaprotocol,PIKA,coinpaprika,pika
+Pine,4500000.0,,Utility,Protocol,,"200,000,000",Not Rated,268000.0,17 Nov – 8 Feb, 1 PINE = 0.2 USD ,4500000.0,Ended: 8 Feb 2023 ,ERC20,,,,USDT,,,8 Feb 2023,2023-02-08,1,pine,PINE,coingecko,pine
+PlayZap,4350000.0,,Utility,Gaming,,,Not Rated,,Market & Returns,,4350000.0,Ended: 18 Apr 2023 ,,,,,,,,18 Apr 2023,2023-04-18,0,playzap,PZP,coingecko,pzp
+PodFast,780000.0,"$780,000 (100%) ",Utility,Artificial Intelligence,780000.0,"100,000,000",Not Rated,780000.0,3 Mar – 14 Mar, 1 FAST = 0.0195 USD ,780000.0,Ended: 14 Mar 2023 ,BEP-20,40%,,,USDT,,,14 Mar 2023,2023-03-14,1,podfast,FAST,coinpaprika,fast
+PolyGame,5225000.0,"$5,230,000 (100%) ",Utility,Platform,5230000.0,"5,000,000,000",Not Rated,100000.0,12 Jun – 16 Jun, 1 PGEM = 0.075 USD ,5225000.0,Ended: 16 Jun 2023 ,Polygon,6%,,,"USDC, BUSD",,,16 Jun 2023,2023-06-16,1,polygame,,,
+Pomerium,20000000.0,,Utility,Gaming,,"1,000,000,000",Not Rated,,until 9 Apr,,20000000.0,Ended: 9 Apr 2023 ,BEP-20,,,,,,,9 Apr 2023,2023-04-09,0,pomerium,PMG,coingecko,pmg
+Project Galaxy,25000000.0,"$25,000,000 (100%) ",Utility,Blockchain Service,25000000.0,"200,000,000","
+High ",10000000000.0,29 Apr – 28 May, 1 GAL = 1.5 USD ,25000000.0,Ended: 28 May 2022 ,ERC20,,$100 / $500,"Yes (10 Feb – 15 Feb, ","ETH, BTC, USDT, USDC",,,28 May 2022,2022-05-28,0,projectgalaxy,,,
+pSTAKE,20000000.0,"$20,000,000 (100%) ",Governance,Protocol,20000000.0,,"
+High ",,Market & Returns,,20000000.0,Ended: 23 Dec 2021 ,,,,,,,,23 Dec 2021,2021-12-23,0,pstake,PSTAKE,coingecko,pstake
+Qredo,28250000.0,"$28,250,000 (100%) ",Utility,Blockchain Service,28250000.0,,"
+High ",,Market & Returns,,28250000.0,Ended: 9 Jul 2021 ,,,,,,,,9 Jul 2021,2021-07-09,0,qredo,QRDO,coinpaprika,qrdo
+Radiant Capital,,,Utility,Market,,"1,000,000,000",Not Rated,15000000000.0,31 Mar – 10 May,,,Ended: 10 May 2023 ,BEP-20,,,,,,,10 May 2023,2023-05-10,0,radiantcapital,RDNT,coingecko,rdnt
+Radicle,24684000.0,,Utility,Network,,,"
+High ",,Market & Returns,,24684000.0,Ended: 27 Feb 2021 ,,,,,,,,27 Feb 2021,2021-02-27,0,radicle,,,
+Radix DLT,12841206.0,"$28,000,000 (46%) ",Utility,Blockchain,28000000.0,"4,200,000,000",Ticker: RADIX,720000000000.0,8 Oct – 22 Oct, 1 RADIX = 0.039 USD ,12841206.0,Ended: 22 Oct 2020 ,ERC20,16.4%,5000$ / 2000000$,"Yes (period isn't set, ",,17 November 2020,,22 Oct 2020,2020-10-22,0,radixdlt,,,
+Razor Network,9000000.0,,Governance,Network,,,"
+Medium ",,Market & Returns,,9000000.0,Ended: 6 Feb 2021 ,,,,,,,,6 Feb 2021,2021-02-06,0,razornetwork,RAZOR,coinpaprika,razor
+Reality Metaverse,750000.0,,Utility,Blockchain Service,,"1,000,000,000",Not Rated,700000.0,5 Apr – 11 Apr, 1 RLTM = 0.04 USD ,750000.0,Ended: 11 Apr 2023 ,Polygon,22%,,,USDT,,,11 Apr 2023,2023-04-11,1,realitymetaverse,RMV,coingecko,rmv
+Reign of Terror,2670000.0,"$2,670,000 (100%) ",Utility,Gaming,2670000.0,"2,000,000,000",Not Rated,375000.0,4 Apr – 12 Apr, 1 REIGN = 0.0125 USD ,2670000.0,Ended: 12 Apr 2023 ,Solana,"14,5%",,,USDT,,,12 Apr 2023,2023-04-12,1,reignofterror,REIGN,coingecko,reign
+Rejuve.AI,2250000.0,"$3,750,000 (60%) ",Utility,Artificial Intelligence,3750000.0,"1,000,000,000",Not Rated,1500000.0,March (no exact dates), 1 RJV = 0.015 ETH ,2250000.0,Ended: 15 Mar 2023 ,ERC20,"27,42%",,,USDT,,,15 Mar 2023,2023-03-15,1,rejuveai,RJV,coingecko,rjv
+Republic Note,49000000.0,,"335 Madison Avenue, Suite 7E, New York, NY 10017",Investment,,,"
+High ",,Market & Returns,,49000000.0,Ended: 1 May 2023 ,,,,,,,,1 May 2023,2023-05-01,0,republicnote,NOTE,coingecko,note
+Re:water,,,Utility,Platform,,"156,000,000,000",Not Rated,60000.0,25 Jan – 1 Feb, 1 WTR = 0.001 USD ,,Ended: 1 Feb 2023 ,ERC20,,,,USDT,,,1 Feb 2023,2023-02-01,0,rewater,,,
+SHELTERZ,3585000.0,"$3,590,000 (100%) ",Utility,Blockchain Service,3590000.0,"1,000,000,000",Not Rated,510000.0,18 Feb – 5 Mar, 1 TERZ = 0.017 USD ,3585000.0,Ended: 5 Mar 2023 ,BEP-20,18%,,,USDT,,,5 Mar 2023,2023-03-05,1,shelterz,TERZ,coinpaprika,terz
+Sifchain Finance,26000000.0,"$26,000,000 (100%) ",Utility,DEX,26000000.0,,"
+Medium ",,Market & Returns,,26000000.0,Ended: 26 Feb 2021 ,,,,,,,,26 Feb 2021,2021-02-26,0,sifchainfinance,EROWAN,coinpaprika,erowan
+SKALE Network,,,Utility,Protocol,,"4,140,000,000",Ticker: SKL,4375000.0,3 Sep – 5 Sep, 1 SKL = 0.03 USD ,,Ended: 5 Sep 2020 ,ERC777,1.8%,"TBA / $1,153",,"ETH, DAI, USDC",All purchasers will have an opportunity to put their tokens to use by the first epoch on October 1st and therefore satisfy Proof of Use ending on December 1st.,,5 Sep 2020,2020-09-05,0,skalenetwork,SKL,coinpaprika,skl
+Space ID,12500000.0,,Utility,Blockchain Service,,"2,000,000,000",Not Rated,2500000.0,17 Mar – 22 Mar, 1 ID = 0.025 USD ,12500000.0,Ended: 22 Mar 2023 ,BEP-20,,,,USDT,,,22 Mar 2023,2023-03-22,1,spaceid,ID,coinpaprika,id
+Stader Labs,40015000.0,"$40,020,000 (100%) ",Utility,Blockchain Service,40020000.0,,"
+High ",,Market & Returns,,40015000.0,Ended: 15 Mar 2022 ,,,,,,,,15 Mar 2022,2022-03-15,0,staderlabs,,,
+Stafi,1015000.0,"$1,020,000 (100%) ",Utility,Protocol,1020000.0,,"
+High ",,Market & Returns,,1015000.0,Ended: 10 Sep 2020 ,,,,,,,,10 Sep 2020,2020-09-10,0,stafi,FIS,coinpaprika,fis
+Staika,,,Utility,Platform,,"250,000,000",Not Rated,50000.0,14 Mar – 15 Mar, 1 STIK = 0.25 USD ,,Ended: 15 Mar 2023 ,ERC20,12%,,,USDT,,,15 Mar 2023,2023-03-15,0,staika,STIK,coinpaprika,stik
+Star Atlas,1000000.0,"$1,000,000 (100%) ",Utility,Gaming,1000000.0,,"
+High ",,Market & Returns,,1000000.0,Ended: 2 Sep 2021 ,,,,,,,,2 Sep 2021,2021-09-02,0,staratlas,ATLAS,coinpaprika,atlas
+Starly.io,6325000.0,"$6,330,000 (100%) ",Utility,Blockchain Service,6330000.0,,"
+High ",,Market & Returns,,6325000.0,Ended: 21 Jan 2022 ,,,,,,,,21 Jan 2022,2022-01-21,0,starlyio,,,
+Stegos,15853577.0,"$20,970,000 (76%) ",Utility,Blockchain,20970000.0,"1,000,000,000",Ticker: STG,,1 Jan – 2 Jan, 1 STG = 0.023 USD ,15853577.0,Ended: 2 Jan 2021 ,ERC20,"51,25%",100000 USD / TBA,,,Within 30-60 days after TGE.,,2 Jan 2021,2021-01-02,0,stegos,STG,coinpaprika,stg
+Stella Fantasy,5000000.0,,Utility,Gaming,,"1,000,000,000",Not Rated,150000.0,4 Apr – 5 Apr, 1 SFTY = 0.1 USD ,5000000.0,Ended: 5 Apr 2023 ,ERC20,"13,2%",,,USDT,,,5 Apr 2023,2023-04-05,1,stellafantasy,SFTY,coingecko,sfty
+SUI ,52000000.0,,Utility,Platform,,,"
+Very High ",,Market & Returns,,52000000.0,Ended: 3 May 2023 ,,,,,,,,3 May 2023,2023-05-03,0,sui,SUI,coingecko,sui
+SuiPad,1645000.0,"$1,650,000 (100%) ",Utility,Platform,1650000.0,,Not Rated,,Market & Returns,,1645000.0,Ended: 10 May 2023 ,,,,,,,,10 May 2023,2023-05-10,0,suipad,SUIP,coingecko,suip
+Swash,12000000.0,"$12,000,000 (100%) ",Utility,Blockchain Service,12000000.0,"1,000,000,000",Ticker: SWASH,50000000000.0,29 Oct – 30 Oct, 1 SWASH = 0.09 USD ,12000000.0,Ended: 30 Oct 2021 ,ERC20,,,"Yes (11 Oct – 25 Oct, ",,,"Afghanistan, Bosnia and Herzegovina, Central African Republic, Congo, Cuba, Eritrea, Ethiopia, Guinea-Bissau, Iran, Iraq, Lebanon, Libya, Somalia, South Sudan, Syria, Uganda, USA, Vanuatu, Yemen",30 Oct 2021,2021-10-30,0,swash,SWASH,coingecko,swash
+Tatsumeeko,7560000.0,,Utility,Gaming,,"1,000,000,000",Not Rated,60000.0,until 15 Feb,,7560000.0,Ended: 15 Feb 2023 ,ERC20,,,,USDT,,,15 Feb 2023,2023-02-15,1,tatsumeeko,TSME,coinpaprika,tsme
+Tectum,4202573.0,,Utility,Blockchain,,,Not Rated,,Market & Returns,,4202573.0,Ended: 30 Jun 2023 ,,,,,,,,30 Jun 2023,2023-06-30,0,tectum,TET,coingecko,tet
+Tenet,2400000.0,"$2,400,000 (100%) ",Utility,Blockchain,2400000.0,"1,200,000,000",Not Rated,1560000.0,10 May – 24 May, 1 TENET = 0.02 USD ,2400000.0,Ended: 24 May 2023 ,Own blockchain,10%,,,,,,24 May 2023,2023-05-24,1,tenet,TENET,coingecko,tenet
+The Graph,12001540.0,"$12,000,000 (100%) ",Utility,Protocol,12000000.0,,"
+High ",,Market & Returns,,12001540.0,Ended: 23 Oct 2020 ,,,,,,,,23 Oct 2020,2020-10-23,0,thegraph,GRT,coinpaprika,grt
+The Qwan,500000.0,,Utility,Gaming,,,Not Rated,,Market & Returns,,500000.0,Ended: 30 May 2023 ,,,,,,,,30 May 2023,2023-05-30,0,theqwan,QWAN,coinpaprika,qwan
+The Unfettered,2500000.0,,Utility,Gaming,,,Not Rated,,Market & Returns,,2500000.0,Ended: 23 May 2023 ,,,,,,,,23 May 2023,2023-05-23,0,theunfettered,SOULS,coinpaprika,souls
+Tidal Finance,2393075.0,"$2,390,000 (100%) ",Utility,Insurance,2390000.0,,"
+High ",,Market & Returns,,2393075.0,Ended: 28 Mar 2021 ,,,,,,,,28 Mar 2021,2021-03-28,0,tidalfinance,TIDAL,coinpaprika,tidal
+Turbos Finance,3750000.0,"$3,750,000 (100%) ",Utility,DEX,3750000.0,"10,000,000,000",Not Rated,750000.0,9 May – 15 May, 1 TURBOS = 0.005 USD ,3750000.0,Ended: 15 May 2023 ,Own blockchain,"10,5%",,,,,,15 May 2023,2023-05-15,1,turbosfinance,TURBOS,coingecko,turbos
+TypeIT,,,Utility,Blockchain Service,,"1,000,000,000",Not Rated,22000000000.0,28 Jun – 6 Jul, 1 TYPE = 0.05 USD ,,Ended: 6 Jul 2023 ,ERC20,,,,,,,6 Jul 2023,2023-07-06,0,typeit,TYPE,coinpaprika,type
+Ultra,5000000.0,"$5,000,000 (100%) ",Utility,Blockchain Platform,5000000.0,,"
+High ",,Market & Returns,,5000000.0,Ended: 16 Jul 2019 ,,,,,,,,16 Jul 2019,2019-07-16,0,ultra,UOS,coingecko,uos
+UltrAlpha,2000000.0,"$2,000,000 (100%) ",Utility,Blockchain Service,2000000.0,,"
+High ",,Market & Returns,,2000000.0,Ended: 14 Aug 2019 ,,,,,,,,14 Aug 2019,2019-08-14,0,ultralpha,UAT,coinpaprika,uat
+UMA,,,Utility,Smart Contract,,,"
+Medium ",,Market & Returns,,,Ended: 29 Apr 2020 ,,,,,,,,29 Apr 2020,2020-04-29,0,uma,UMA,coingecko,uma
+Umee,38300000.0,"$38,300,000 (100%) ",Utility,DeFi,38300000.0,,"
+High ",,Market & Returns,,38300000.0,Ended: 8 Dec 2021 ,,,,,,,,8 Dec 2021,2021-12-08,0,umee,,,
+UniLend,3250000.0,"$3,250,000 (100%) ",Utility,DeFi,3250000.0,,"
+High ",,Market & Returns,,3250000.0,Ended: 10 Oct 2020 ,,,,,,,,10 Oct 2020,2020-10-10,0,unilend,UFT,coinpaprika,uft
+Uno Farm,540000.0,"$3,040,000 (18%) ",Utility,Blockchain Service,3040000.0,"1,000,000,000",Not Rated,10000000000.0,30 Dec – 30 Jan, 1 UNF = 0.039 USD ,540000.0,Ended: 30 Jan 2023 ,ERC20,20%,,,USDT,,,30 Jan 2023,2023-01-30,0,unofarm,UNF,coinpaprika,unf
+Vega Protocol,59750000.0,"$59,750,000 (100%) ",Utility,Protocol,59750000.0,,"
+High ",,Market & Returns,,59750000.0,Ended: 3 Jun 2021 ,,,,,,,,3 Jun 2021,2021-06-03,0,vegaprotocol,VEGA,coingecko,vega
+Voxies Tactics,6000000.0,"$6,000,000 (100%) ",Utility,Gaming,6000000.0,,"
+High ",,Market & Returns,,6000000.0,Ended: 14 Dec 2021 ,,,,,,,,14 Dec 2021,2021-12-14,0,voxiestactics,,,
+War Legends,,,Utility,Gaming,,"350,000,000",Not Rated,250000.0,9 Jun – 15 Jun, 1 WAR = 0.037 USD ,,Ended: 15 Jun 2023 ,Polygon,"21,97%",,,,,,15 Jun 2023,2023-06-15,0,warlegends,WAR,coingecko,war
+WeFi,1125000.0,,Utility,Lending,,,Not Rated,,Market & Returns,,1125000.0,Ended: 15 May 2023 ,,,,,,,,15 May 2023,2023-05-15,0,wefi,WFI,coingecko,wfi
+WiFi Map,1700000.0,"$1,700,000 (100%) ",Utility,Platform,1700000.0,"1,000,000,000",Not Rated,500000.0,30 Mar – 1 Apr, 1 WIFI = 0.025 USD ,1700000.0,Ended: 1 Apr 2023 ,Polygon,"11,4%",,,USDT,,,1 Apr 2023,2023-04-01,1,wifimap,WIFI,coingecko,wifi
+Wing,,,Utility,DeFi,,,"
+High ",,Market & Returns,,,Ended: 15 Oct 2020 ,,,,,,,,15 Oct 2020,2020-10-15,0,wing,SWINGBY,coingecko,swingby
+Wink,16000000.0,"$16,000,000 (100%) ",Utility,Gambling,16000000.0,,"
+High ",,Market & Returns,,16000000.0,Ended: 31 Jul 2019 ,,,,,,,,31 Jul 2019,2019-07-31,0,wink,WINK,coingecko,wink
+Wistaverse,930000.0,"$930,000 (100%) ",Utility,Platform,930000.0,,Not Rated,,Market & Returns,,930000.0,Ended: 25 May 2023 ,,,,,,,,25 May 2023,2023-05-25,0,wistaverse,WISTA,coingecko,wista
+xDai,,,Utility,Blockchain Service,,,"
+High ",,Market & Returns,,,Ended: 28 Apr 2020 ,,,,,,,,28 Apr 2020,2020-04-28,0,xdai,XDAI,coingecko,xdai
+Yesports,6050000.0,,Utility,Platform,,,Not Rated,,Market & Returns,,6050000.0,Ended: 15 Apr 2023 ,,,,,,,,15 Apr 2023,2023-04-15,0,yesports,YESP,coinpaprika,yesp
+Your Open Metaverse,3085000.0,"$3,090,000 (100%) ",Utility,Blockchain Service,3090000.0,"300,000,000",Not Rated,300000.0, 27 Feb – 13 Mar, 1 YOM = 0.075 USD ,3085000.0,Ended: 13 Mar 2023 ,Solana,30%,,,USDT,,,13 Mar 2023,2023-03-13,1,youropenmetaverse,,,
