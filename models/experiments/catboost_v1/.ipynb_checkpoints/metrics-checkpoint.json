@@ -1,0 +1,44 @@
+{
+  "catboost": {
+    "model": "catboost",
+    "best_params": {
+      "clf__depth": 8,
+      "clf__iterations": 800,
+      "clf__l2_leaf_reg": 7.0,
+      "clf__learning_rate": 0.03
+    },
+    "roc_auc": 0.8842444862633867,
+    "pr_auc": 0.8711875565337898,
+    "f1": 0.7667910447761194,
+    "accuracy": 0.8131539611360239,
+    "brier": 0.1346130465300112,
+    "confusion_matrix": [
+      [
+        677,
+        79
+      ],
+      [
+        171,
+        411
+      ]
+    ]
+  },
+  "cat_calibrated": {
+    "model": "catboost_calibrated_isotonic",
+    "roc_auc": 0.8841478935980653,
+    "pr_auc": 0.8678990843932759,
+    "f1": 0.7734597156398104,
+    "accuracy": 0.8213751868460388,
+    "brier": 0.1333736149154506,
+    "confusion_matrix": [
+      [
+        691,
+        65
+      ],
+      [
+        174,
+        408
+      ]
+    ]
+  }
+}

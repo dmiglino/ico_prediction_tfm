@@ -1,0 +1,44 @@
+{
+  "rf": {
+    "best_params": {
+      "clf__max_depth": null,
+      "clf__max_features": "sqrt",
+      "clf__min_samples_leaf": 2,
+      "clf__min_samples_split": 2,
+      "clf__n_estimators": 700
+    },
+    "roc_auc": 0.878890979835997,
+    "pr_auc": 0.8646610032325411,
+    "f1": 0.7577174929840973,
+    "accuracy": 0.8064275037369207,
+    "brier": 0.14254247985516902,
+    "confusion_matrix": [
+      [
+        674,
+        82
+      ],
+      [
+        177,
+        405
+      ]
+    ]
+  },
+  "rf_calibrated": {
+    "model": "rf_calibrated_isotonic",
+    "roc_auc": 0.873618156693758,
+    "pr_auc": 0.8584967576642583,
+    "f1": 0.7551789077212806,
+    "accuracy": 0.8056801195814649,
+    "brier": 0.13949241666868378,
+    "confusion_matrix": [
+      [
+        677,
+        79
+      ],
+      [
+        181,
+        401
+      ]
+    ]
+  }
+}

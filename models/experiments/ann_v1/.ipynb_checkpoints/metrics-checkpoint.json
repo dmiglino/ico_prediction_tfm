@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-10-19 21:04:57",
+  "model": "ann_isotonic_calibrated",
+  "accuracy": 0.750373692077728,
+  "roc_auc": 0.8150841378934163,
+  "pr_auc": 0.7676505439442122,
+  "brier": 0.17372898232856895,
+  "exp_dir": "experiments/ann_v1",
+  "best_params": {
+    "clf__activation": "relu",
+    "clf__alpha": 0.0001,
+    "clf__batch_size": 128,
+    "clf__hidden_layer_sizes": [
+      256,
+      128
+    ],
+    "clf__learning_rate_init": 0.001,
+    "clf__solver": "adam"
+  }
+}
